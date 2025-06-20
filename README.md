@@ -1,10 +1,11 @@
 ## <h1> Hi there 👋 </h1>
+<!-- <p><img src="https://images.unsplash.com/photo-1555255707-c07966088b7b?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/></p> -->
 <h1 align="center">🚀 Subhajit Porya – R&D Electronics Engineer | ML Engineer</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-ML%20%7C%20DS-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow%20%7C%20PyTorch-orange?style=for-the-badge&logo=tensorflow" />
-  <img src="https://img.shields.io/badge/Deployed%20Projects-Heroku%20%7C%20Streamlit-green?style=for-the-badge&logo=heroku" />
+  <img src="https://img.shields.io/badge/Deployed%20Projects-Git%20%7C%20GitHub-gray?style=for-the-badge&logo=heroku" />
 </p>
 
 ---
@@ -32,6 +33,7 @@ Hi, I'm **Subhajit Porya**, currently working as an **R&D Electronics Engineer**
 | 🚧 **FabricScan** <br>(Company Project)| Real-time fabric defect detection using YOLOv11 with industrial camera + lighting setup | YOLOv11, CVAT, PyTorch, OpenCV |
 | 🔍 **Fake News Classifier** | NLP-based classifier to detect fake news using TF-IDF + XGBoost | Python, Scikit-learn, NLTK |
 | 📈 **Sales Forecasting** | Time series prediction using ARIMA, LSTM | Pandas, Prophet, TensorFlow |
+| 🗨️ **Chat Bot** | Individual Chating using Django ASGI channel | HTML, CSS, JAVASCRIPT, Django |
 | 🎮 **RL Trading Bot** | Reinforcement learning agent for stock trading simulation | Gym, Stable-Baselines3, Matplotlib |
 
 
@@ -64,7 +66,7 @@ Hi, I'm **Subhajit Porya**, currently working as an **R&D Electronics Engineer**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <!--
 <p align="center">
@@ -76,18 +78,17 @@ Hi, I'm **Subhajit Porya**, currently working as an **R&D Electronics Engineer**
 
 <table cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=suBha-1999&show_icons=true&theme=radical" height="200" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suBha-1999&layout=compact&theme=radical" height="200" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=suBha-1999&show_icons=true&theme=radical" height="200" width="470"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suBha-1999&layout=compact&theme=radical" height="200" width="470"/></td>
   </tr>
 </table>
-
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/subhajitporya1999"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/subhajitporya1999/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:subhajitporyaon5@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/suBha-1999"><img src="https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=githubpages" /></a>
 </p>
@@ -98,6 +99,6 @@ Hi, I'm **Subhajit Porya**, currently working as an **R&D Electronics Engineer**
 
 > ❤️ *“Feel for others — do not forget that the poor, the ignorant, the downtrodden, are your flesh and blood. Be kind and serve them.” – Swami Vivekananda*
 
-> 🇮🇳 *“Give me blood, and I shall give you freedom!” – Netaji Subhas Chandra Bose*
+> 🔥 *“Give me blood, and I shall give you freedom!” – Netaji Subhas Chandra Bose*
 
 
